@@ -15,6 +15,8 @@ Proyecto de análisis de datos sobre el Balance Energético Nacional, en dos par
 
 ## Parte 2 · Dashboards
 
+🔗 **[Ver el dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/nahuel.mansilla.astudillo/viz/BalanceEnergeticoArgentina2019-2024-Deimportadoraexportador/Argentinapasdeimportaraexportarenerga2019-2024)**
+
 ![Dashboard 1 – Oferta y comercio exterior](dashboards/dashboard_1_oferta_comercio.png)
 
 ![Dashboard 2 – Transformación y consumo](dashboards/dashboard_2_transformacion_consumo.png)
@@ -66,6 +68,7 @@ Por eso todos los indicadores se recalculan desde el detalle por fuente. El note
 ├── datos_tableau_parte2.xlsx          # Tablas listas para Tableau (indicadores, comercio, producción, consumo, eficiencia)
 ├── graficos_parte2/                   # Gráficos del notebook
 ├── dashboards/                        # Dashboards + script que los genera
+├── tableau/                           # CSV usados en el dashboard de Tableau Public
 ├── Analisis.pdf                       # Informe de la Parte 1
 └── Distribucion_Energia_ARG_Comparacion_RE.twbx   # Dashboards Tableau de la Parte 1
 ```
